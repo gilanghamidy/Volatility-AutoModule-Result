@@ -38,7 +38,7 @@
 #include <linux/fdtable.h>
 #include <linux/utsname.h>
 #include <linux/netfilter/x_tables.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <linux/radix-tree.h>
 #include <linux/completion.h>
 #include <linux/fs_struct.h>

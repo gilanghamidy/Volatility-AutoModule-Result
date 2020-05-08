@@ -20,7 +20,7 @@
 #include <linux/pid.h>
 #include <linux/wait.h>
 #include <linux/proc_fs.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <net/ip_fib.h>
 #include <linux/clocksource.h>
 #include <linux/fs_struct.h>

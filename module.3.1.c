@@ -19,7 +19,7 @@
 #include <net/udp.h>
 #include <linux/spinlock_types.h>
 #include <net/sch_generic.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <linux/un.h>
 #include <linux/tty_driver.h>
 #include <linux/fdtable.h>

@@ -36,7 +36,7 @@
 #include <net/sch_generic.h>
 #include <linux/netfilter.h>
 #include <net/ip.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <net/af_unix.h>
 #include <linux/completion.h>
 #include <asm-generic/posix_types.h>

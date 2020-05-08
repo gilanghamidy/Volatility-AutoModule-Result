@@ -35,7 +35,7 @@
 #include <linux/rcupdate.h>
 #include <net/sock.h>
 #include <linux/module.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/spinlock_types.h>
+#include <linux/arch/x86/include/asm/spinlock_types.h>
 #include <linux/fdtable.h>
 #include <linux/un.h>
 #include <linux/utsname.h>

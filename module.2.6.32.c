@@ -15,7 +15,7 @@
 #include <linux/completion.h>
 #include <linux/wait.h>
 #include <linux/inetdevice.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/spinlock_types.h>
+#include <linux/arch/x86/include/asm/spinlock_types.h>
 #include <linux/tty_driver.h>
 #include <net/af_unix.h>
 #include <linux/spinlock_types.h>

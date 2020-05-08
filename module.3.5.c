@@ -22,7 +22,7 @@
 #include <linux/notifier.h>
 #include <linux/sysfs.h>
 #include <linux/mount.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <net/sock.h>
 #include <linux/compiler.h>
 #include <linux/ioport.h>

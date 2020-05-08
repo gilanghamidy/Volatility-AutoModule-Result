@@ -14,7 +14,7 @@
 #include <linux/inetdevice.h>
 #include <linux/pid_namespace.h>
 #include <linux/mount.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/spinlock_types.h>
+#include <linux/arch/x86/include/asm/spinlock_types.h>
 #include <linux/sysfs.h>
 #include <linux/spinlock_types.h>
 #include <linux/tty.h>

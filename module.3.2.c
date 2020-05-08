@@ -35,7 +35,7 @@
 #include <linux/tty_driver.h>
 #include <asm-generic/int-ll64.h>
 #include <linux/fs_struct.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <linux/proc_fs.h>
 #include <linux/utsname.h>
 #include <linux/wait.h>

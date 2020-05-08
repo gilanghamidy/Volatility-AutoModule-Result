@@ -5,7 +5,7 @@
 #include <linux/inetdevice.h>
 #include <linux/termios.h>
 #include <net/af_unix.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/spinlock_types.h>
+#include <linux/arch/x86/include/asm/spinlock_types.h>
 #include <linux/tty_driver.h>
 #include <linux/tty.h>
 #include <linux/types.h>

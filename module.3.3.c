@@ -10,7 +10,7 @@
 #include <net/protocol.h>
 #include <linux/spinlock_types.h>
 #include <linux/inetdevice.h>
-#include </storage/linux-compile/linux/arch/x86/include/asm/clocksource.h>
+#include <linux/arch/x86/include/asm/clocksource.h>
 #include <asm/termbits.h>
 #include <linux/pid.h>
 #include <linux/termios.h>
